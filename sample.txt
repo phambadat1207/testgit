@@ -1,3 +1,0 @@
-den con khi con hieu duoc lenh git
-add: dang ki thay doi trong index
-pull: lay noi dung cua remote repository
